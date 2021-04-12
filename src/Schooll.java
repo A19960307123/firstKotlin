@@ -19,6 +19,7 @@ public class Schooll {
         }else {
             System.out.println("1");
         }
+        System.out.println('a'+1);
     }
     public static int max(int a,int b){
         return a>b?a:b;
